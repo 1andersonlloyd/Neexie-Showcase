@@ -35,39 +35,45 @@ Neexie’s primary feature is a quiz system that randomly selects quotes from a 
 
 # Quote Use
 
-![Example Quotes](Images/QuoteMessages.png)
+![Example Quotes](Images/QuoteMessages.png)  
 *List of example quotes
 
-![Harvesting Quotes](Images/Harvest.png)
+
+![Harvesting Quotes](Images/Harvest.png)  
 *Neexie collecting the list of quotes and saving to a JSON file
 
-![Random Quote](Images/RandomQuote.png)
+
+![Random Quote](Images/RandomQuote.png)  
 *Neexie displays a random quote
 
-![Quote Quiz 1](Images/QuizQuote1.png)
+
+![Quote Quiz 1](Images/QuizQuote1.png)  
 *Neexie starts a quiz
 
-![Quote Quiz 2](Images/QuizQuote2.png)
+
+![Quote Quiz 2](Images/QuizQuote2.png)  
 *Neexie starts a quiz using a multi-speaker quote
 
--
+
 
 # Disguise Message
 
-![Disguised Message Example](Images/DisguiseMessage.png)
+![Disguised Message Example](Images/DisguiseMessage.png)  
 *Neexie sends a message while disguised, note the "App" tag indicating that it is not a real user
 
--
+
 
 # Minesweeper
 
-![9x9 Minesweeper Board](Images/Sweepin9.png)
+![9x9 Minesweeper Board](Images/Sweepin9.png)  
 *Neexie sends a message with a 9x9 minesweeper board using Discord's spoiler function on emojis
 
-![20x20 Minesweeper Board](Images/Sweepin20.png)
+
+![20x20 Minesweeper Board](Images/Sweepin20.png)  
 *An example of a larger 20x20 board that Neexie sends through multiple separate messages, to abide by Discord's API limits
 
-![50x50 Minesweeper Board](Images/Sweepin50.png)
+
+![50x50 Minesweeper Board](Images/Sweepin50.png)  
 *An example of the largest possible board, 50x50, each line sent separately
 
 ---
